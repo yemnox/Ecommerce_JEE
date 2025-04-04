@@ -1,4 +1,3 @@
-readme:
 # Ecommerce_JEE
 
 A Java EE (Servlet + JSP) web application for managing users and articles in a small e-commerce platform.  
