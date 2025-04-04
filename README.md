@@ -1,4 +1,4 @@
-readme: |
+readme:
 # Ecommerce_JEE
 
 A Java EE (Servlet + JSP) web application for managing users and articles in a small e-commerce platform.  
@@ -25,10 +25,6 @@ Implements MVC architecture with layered design (DAO, Metier, Presentation), ses
 - PostgreSQL
 - Maven (build tool)
 - IntelliJ IDEA
-
-  ---
-
-
 
   ---
 
