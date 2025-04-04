@@ -1,4 +1,4 @@
-package servlet;
+package servlet; //this one is to test the Servlet
 
 import java.io.IOException;
 import javax.servlet.ServletException;
